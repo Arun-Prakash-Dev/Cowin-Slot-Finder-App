@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591836187520",
+    "project_id": "cowin-slot-finder-4b1dc",
+    "storage_bucket": "cowin-slot-finder-4b1dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591836187520:android:88340816cece0032a78f65",
+        "android_client_info": {
+          "package_name": "com.arundev.cowin_slot_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591836187520-2eedek6sgq8j3684nlokp7fc5u7cphev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAecFo6ZWSOhGegF-Dijf_0T6gulEt9Amg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591836187520-2eedek6sgq8j3684nlokp7fc5u7cphev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
